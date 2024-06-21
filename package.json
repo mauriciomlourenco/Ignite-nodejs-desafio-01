@@ -1,0 +1,13 @@
+{
+  "name": "ignite-nodejs-desafio-01-todo-list",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Desafio 01 Ignite trilha NodeJS - Todo List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Mauricio Machado Lourenço",
+  "license": "ISC"
+}
